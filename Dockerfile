@@ -36,4 +36,4 @@ WORKDIR /app/timeoff-management
 
 RUN npm install
 
-CMD npm start
+CMD npm start 
